@@ -38,7 +38,6 @@ Comprehensive data analysis forms the backbone of this project. Various artifact
 ├── ModelTraining.ipynb                  # Central Jupyter Notebook containing EDA, preprocessing, training, and evaluation
 ├── histograms/                          # Directory containing feature distributions
 ├── histograms_with_counts/              # Directory with detailed distribution counts
-├── catboost_info/                       # Metadata and training logs from CatBoost model
 ├── *.png                                # Generated visual plots (Feature Importance, KNN Accuracy, etc.)
 └── README.md                            # Project documentation
 ```
