@@ -1,7 +1,7 @@
 # URL Phishing Detection Model
 
 ## 🛡️ Overview
-This is a final year project focused on detecting phishing URLs using Machine Learning techniques. The Internet has become an integral part of our lives, but it has also brought challenges such as phishing attacks, where malicious actors use fraudulent sites to steal sensitive information. This project develops a robust pipeline to systematically detect and classify these URLs based on their lexical properties and structural attributes.
+This project focused on detecting phishing URLs using Machine Learning techniques. The Internet has become an integral part of our lives, but it has also brought challenges such as phishing attacks, where malicious actors use fraudulent sites to steal sensitive information. This project develops a robust pipeline to systematically detect and classify these URLs based on their lexical properties and structural attributes.
 
 ## 📊 Dataset
 The dataset utilized for this project is sourced from [Mendeley Data](https://data.mendeley.com/datasets/6tm2d6sz7p/1).
